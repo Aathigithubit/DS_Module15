@@ -1,6 +1,5 @@
-# Ex15 Value Existence Check in a TreeMap
-## DATE:
 
+# Ex15 Value Existence Check in a TreeMap
 ## AIM:
 To write a Java program that checks whether a given value exists in a TreeMap.
 
@@ -15,7 +14,7 @@ To write a Java program that checks whether a given value exists in a TreeMap.
 ```java
 /*
 Program to checks whether a given value exists in a TreeMap.
-Developed by: AATHI.S
+Developed by: AATHI S
 RegisterNumber: 212223220001
 
 */
@@ -55,7 +54,6 @@ public class TreeMapValueExistenceCheck {
 
 ## Output:
 <img width="972" height="668" alt="image" src="https://github.com/user-attachments/assets/4f28964f-e8ad-4737-ac84-18a702035340" />
-
 
 
 ## Result:
